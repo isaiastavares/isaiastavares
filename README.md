@@ -1,6 +1,6 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=isaiastavares&repo=isaiastavares&countColorcountColor)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! </h1>
 
 ### I'm a Senior Software Engineer Backend living in 🇧🇷 and working at [iFood](https://institucional.ifood.com.br).
 
